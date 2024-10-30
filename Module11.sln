@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module11.MainTGBot", "Module11.MainTGBot\Module11.MainTGBot.csproj", "{95D08ADC-FAE9-4BBB-8FDB-0C96B928BFDC}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module11.TestTGBot", "Module11.TestTGBot\Module11.TestTGBot.csproj", "{D10D1B61-B687-4844-B798-610F82AD08EC}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{95D08ADC-FAE9-4BBB-8FDB-0C96B928BFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{95D08ADC-FAE9-4BBB-8FDB-0C96B928BFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{95D08ADC-FAE9-4BBB-8FDB-0C96B928BFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{95D08ADC-FAE9-4BBB-8FDB-0C96B928BFDC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D10D1B61-B687-4844-B798-610F82AD08EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D10D1B61-B687-4844-B798-610F82AD08EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D10D1B61-B687-4844-B798-610F82AD08EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
